@@ -2,6 +2,12 @@
 
 A command-line application that fetches and displays the recent public activity of a GitHub user.
 
+## Project
+
+This project was completed as a roadmap.sh project.
+
+Project URL: https://roadmap.sh/projects/github-user-activity
+
 ## Features
 
 - Fetches recent public activity for a GitHub user
